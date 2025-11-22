@@ -1,0 +1,42 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Travel Agency Page</title>
+    <meta name="description" content="Travel Agency Policies">
+  </head>
+  <body>
+    <h1>All Across The world</h1>
+    <p>Provide different means of transport to our clients</p>
+    <h2>Packages</h2>
+    <p>All your luggages and couriers can be transported easily</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+          <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="The Colosseo in Rome, Italy">
+        </a>
+        <figcaption>Ancient Ruins</figcaption>
+    </figure>
+    <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+          <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="The Alps, beautiful mountains">
+        </a>
+        <figcaption>The rocky mountains</figcaption>
+    </figure>
+    <figure>
+        <a href="https://www.freecodecamp.org/learn"target="_blank">
+          <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Calm Ocean">
+        </a>
+        <figcaption>Peaceful Ocean</figcaption>
+      </figure>
+  </body>
+</html>
+
+** end of index.html **
+

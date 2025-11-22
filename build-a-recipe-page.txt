@@ -1,0 +1,35 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <title>PASTA RECIPE</title>
+  <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>PASTA RECIPE</h1>
+    <p>Creamy and Super Delicious!!</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Penne</li>
+      <li>Butter</li>
+      <li>Cheese</li>
+      <li>Milk</li>
+      <li>Black Pepper</li>
+      <li>Onion and Garlic</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>Boil the Penne Pasta.</li>
+      <li>Heat the pan and put some butter to melt.</li>
+      <li>Sauté the onions and garlic with the melted butter.</li>
+      <li>When they're golden brown, pour the milk in the pan. After that, put some cheese in the pasta sauce to make it creamy.</li>
+      <li>At last, put the boiled Penne in the Pasta Sauce and mix it well.</li>
+      <li>Now your creamy and tasty White sauce pasta is ready to serve.</li>
+    </ol>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="A Cheesy Penne Pasta">
+  </body>
+</html>
+
+** end of index.html **
+
