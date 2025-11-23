@@ -1,0 +1,40 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Video Compilation Page</h1>
+        <p>Here we're building viddeo Compilation Page</p>
+        <section>
+            <h2>V1</h2>
+            <p>for video1</p>
+            <iframe src height="210" width="260" title="video1">
+                
+            </iframe>
+        </section>
+        <section>
+            <h2>V2</h2>
+            <p>for video2</p>
+            <iframe src height="210" width="260" title="video2">
+            </iframe>
+        </section>
+        <section>
+            <h2>V3</h2>
+            <p>for video3</p>
+            <iframe src height="210" width="260" title="video3">
+            </iframe>
+        </section>
+
+</body>
+
+</html>
+
+** end of index.html **
+
